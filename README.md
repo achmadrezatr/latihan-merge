@@ -1,3 +1,3 @@
 # latihan-merge
 
-##saat ini saya sedang belajar merge.
+## saat ini saya sedang belajar merge.
